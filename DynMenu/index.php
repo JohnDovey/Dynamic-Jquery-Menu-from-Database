@@ -9,7 +9,7 @@ include_once ("dbconnect.php"); // Connect to the Database
     <head>
         <title>Menu Demo</title>
         <link rel="stylesheet" type="text/css" href="jquery/jqueryslidemenu.css" />
-        <script type="text/javascript" src="jquery/jquery-1.3.2.min.js">
+        <script type="text/javascript" src="//code.jquery.com/jquery-2.1.3.min.js">
         </script>
         <script type="text/javascript" src="jquery/jqueryslidemenu.js">
         </script>
