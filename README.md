@@ -22,3 +22,5 @@ John Dovey
 john@justdone.co.za
 
 0833888290
+
+A simple demo of this project is on SourceForge http://dynamicjqueryme.sourceforge.net/
