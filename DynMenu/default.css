@@ -1,0 +1,129 @@
+/*GLOBAL STYLES*/
+/* Ver 1.1 */
+body,h1,h2,h3,h4,h5,h6,p,form,fieldset,img { 
+   margin : 0; 
+   padding : 0; 
+   border : 0; 
+ } 
+ul { 
+   margin : 1; 
+ } 
+body { 
+   background-color : #00aeef; 
+   color : #222; 
+   font-size : 1em; 
+   font-family : Verdana, Arial, sans-serif; 
+ } 
+table { 
+   background-color : #00aeef; 
+   color : #FFFFFF; 
+   font-size : 1em; 
+   font-family : Verdana, Arial, sans-serif; 
+ } 
+body { 
+   padding : 20px 0; 
+   background : #DCE3E2; 
+   text-align : center; 
+ } 
+th { 
+   color : #000000; 
+   font-weight : bold; 
+   border-top : 1px solid #d1bd9d; 
+   border-bottom : 1px solid #d1bd9d; 
+   border-left : 1px solid #d1bd9d; 
+   border-right : 1px solid #d1bd9d; 
+ } 
+td { 
+   border-top : 1px solid #d1bd9d; 
+   border-bottom : 1px solid #d1bd9d; 
+   border-left : 1px solid #d1bd9d; 
+   border-right : 1px solid #d1bd9d; 
+ } 
+h1 { 
+   border-bottom : 1px solid #d1bd9d; 
+   background-color : #00aeef; 
+   color : #000000;
+ } 
+h2 { 
+   border-bottom : 1px solid #d1bd9d; 
+   background-color : #00aeef; 
+   color : #000000;
+ } 
+p { 
+   margin : 1; 
+   padding : 1; 
+   text-align : justify; 
+   text-justify : newspaper; 
+ } 
+.input, select, textarea { 
+   border : 1px solid #d1bd9d; 
+   font : 0.917em Arial, sans-serif; 
+ } 
+a { 
+   background-color : inherit; 
+   color : #642; 
+   text-decoration : underline; 
+ } 
+a:hover { 
+   background-color : inherit; 
+   color : #970000; 
+   text-decoration : underline; 
+ } 
+a:link { 
+   color : #FFB135; 
+ } 
+a:visited { 
+   color : #B58834; 
+ } 
+a:active { 
+   color : #FFD335; 
+ } 
+.clear { 
+   clear : both; 
+   height : 0px; 
+   font-size : 0px; 
+   line-height : 0px; 
+ } 
+.left { 
+   text-align : left; 
+ } 
+.center { 
+   text-align : center; 
+ } 
+.right { 
+   text-align : right; 
+ } 
+#main { 
+   width : 806px; 
+   margin : 0 auto; 
+   border : 8px solid #fff; 
+   text-align : left; 
+ } 
+
+#foot { 
+   clear : both; 
+   float : left; 
+   width : 100%; 
+   height : 38px; 
+   margin-top : 3px; 
+   padding : 3px 0 0; 
+   color : #553; 
+   font-size : 1.08em; 
+ } 
+#foot a { 
+   background-color : transparent; 
+   color : #553; 
+   text-decoration : none; 
+ } 
+#foot a:hover { 
+   text-decoration : underline; 
+ } 
+#copy { 
+   float : left; 
+   padding : 10px 10px; 
+   text-align : left; 
+ } 
+#powered { 
+   float : right; 
+   padding : 10px 10px; 
+ } 
