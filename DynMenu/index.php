@@ -1,7 +1,7 @@
 <?php
 // Copyright John Dovey, 2010
-// john@justdone.co.za
-// Ver 1.1
+// Dovey.john@gmail.com
+// Ver 1.2
 //
 include_once ("dbconnect.php"); // Connect to the Database
 ?>
