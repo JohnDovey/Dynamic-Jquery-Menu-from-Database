@@ -5,8 +5,8 @@
 //
 include_once ("dbconnect.php"); // Connect to the Database
 ?>
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <title>Menu Demo</title>
     <link rel="stylesheet" type="text/css" href="jquery/jqueryslidemenu.css" />
