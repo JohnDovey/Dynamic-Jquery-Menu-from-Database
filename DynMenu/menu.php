@@ -1,4 +1,4 @@
-jo<?php
+<?php
 // Copyright John Dovey, 2010
 // dovey.john@gmail.com
 // Ver 1.2
