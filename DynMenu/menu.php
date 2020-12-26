@@ -1,7 +1,7 @@
-<?php
+jo<?php
 // Copyright John Dovey, 2010
-// john@justdone.co.za
-// Ver 1.1
+// dovey.john@gmail.com
+// Ver 1.2
 //
 //Use some sort of user record to store and/or pass the security level.
 if (isset($_REQUEST["seclevel"])) {
