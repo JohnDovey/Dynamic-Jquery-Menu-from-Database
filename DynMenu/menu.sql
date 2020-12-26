@@ -10,8 +10,8 @@
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 --
--- Database: `d309002_menu`
---
+-- Database: `MymenuDB`
+-- Ensure you set the default database you want to use
 
 -- --------------------------------------------------------
 
