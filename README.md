@@ -18,9 +18,6 @@ If you use this, please let me know so I can see it in action..
 Have fun 
 
 John Dovey
-
-john@justdone.co.za
-
-0833888290
+dovey.john@gmail.com
 
 A simple demo of this project is on SourceForge http://dynamicjqueryme.sourceforge.net/
