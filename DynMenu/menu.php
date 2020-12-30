@@ -1,5 +1,5 @@
 <?php
-// Copyright John Dovey, 2010
+// Copyright John Dovey, 2010, 2020
 // dovey.john@gmail.com
 // Ver 1.2
 //
@@ -11,7 +11,8 @@ if (isset($_REQUEST["seclevel"])) {
 }
 ?>
 <div id="myslidemenu" class="jqueryslidemenu">
-<!-- Menu generated from John Dovey's "Dynamic Jquery Menu From Database" (ver1.0). Contact John at john@justdone.co.za for more info or see https://sourceforge.net/projects/dynamicjqueryme/  -->
+<!-- Menu generated from John Dovey's "Dynamic Jquery Menu From Database" (ver1.2). Contact John at dovet.john@gmail.com for more info or see https://sourceforge.net/projects/dynamicjqueryme/  -->
+    <!-- Note: Rather use github for source. Sourceforge will not be uodated -->
     <br style="clear: left"/>
     <?php
     getmenu(0, $seclevel);
