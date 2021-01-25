@@ -21,3 +21,6 @@ John Dovey
 dovey.john@gmail.com
 
 A simple demo of this project is on SourceForge http://dynamicjqueryme.sourceforge.net/
+
+## ToDo
+- Move the database to SQLite so it can be local to the webpage/website
